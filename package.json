@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@strudel/web": "^1.2.6",
+    "chess.js": "^1.4.0",
+    "lucide-react": "^0.562.0",
+    "react-chessground": "^1.5.0"
+  }
+}
